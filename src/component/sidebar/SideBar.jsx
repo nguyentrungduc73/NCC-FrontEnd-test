@@ -6,7 +6,7 @@ function SideBar() {
   return (
     <div className={style['sidebar-wrapper']}>
       <SideBarItem className={['sidebar-item' , 'home']} text={'Home'} />
-      <SideBarItem className={['sidebar-item']} text={'Home'} />
+      <SideBarItem className={['sidebar-item']} text={'Services'} />
 
       <SideBarItem className={['sidebar-item' , 'active']} text={'News'} mouse />
 
