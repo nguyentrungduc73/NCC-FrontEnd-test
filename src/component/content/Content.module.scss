@@ -1,0 +1,47 @@
+.content-wrapper{
+  // width: 1768px;
+  // height: 100vh;
+  background-color: #FFFFFF;
+  padding: 0 129px;
+  overflow: auto;
+}
+
+.logo-box{
+  width: 310px;
+  height: 122px;
+  margin: 20px auto 30px;
+}
+.des-box{
+  background-color:#EFEFEF;
+  // width: 1510px;
+  // height: 210px;
+  padding-top: 38px;
+  padding-bottom: 38px;
+  margin-bottom: 40px;
+ 
+}
+.des-title{
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21.09px;
+  margin:0px auto 18px;
+  // width: 241px;
+  // height: 21px;
+  color: #000000;
+  
+}
+.des-text{
+  // width: 972px;
+  // height: 95px;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18.75px;
+  color: #000000;
+}
+.content-box{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding-bottom: 182px;
+}
