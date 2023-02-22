@@ -18,7 +18,7 @@ function Content() {
         <ContentItem srcImg={'/html-icon 1.png'} />
         <ContentItem srcImg={'/url-icon 1.png'} />
       </div>
-      <Footer/>
+      {/* <Footer/> */}
     </div>
   )
 }

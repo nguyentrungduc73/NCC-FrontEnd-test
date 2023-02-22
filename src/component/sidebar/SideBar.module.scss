@@ -3,3 +3,9 @@
   height: 100vh;
   background-color: #191718;
 }
+
+@media (max-width: 992px) {
+  .sidebar-wrapper{
+      display: none;
+  }
+}

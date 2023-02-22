@@ -1,8 +1,8 @@
 import React from 'react'
-
+import style from './Footer.module.scss'
 function Footer() {
   return (
-    <div>Footer</div>
+    <footer className={style["footer-wrapper"]}>Copyright © 2021</footer>
   )
 }
 
